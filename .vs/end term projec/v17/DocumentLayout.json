@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nishant rana\\end term projec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|c:\\users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\gameoverdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\gameoverdelay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\menustuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\menustuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\videobackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\videobackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\pistol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\usechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\usechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|C:\\Users\\nishant rana\\end term projec\\assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6BC7B8-7FA7-AA88-EB9A-F5AC82080B50}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets-20250515t062007z-1-001\\basichorrorgameassets\\scripts\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoBackground.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\VideoBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\VideoBackground.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\VideoBackground.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\VideoBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:57:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KillPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\KillPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\KillPlayer.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\KillPlayer.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\KillPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:58:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Door.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:31:31.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuStuff.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\MenuStuff.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\MenuStuff.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\MenuStuff.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\MenuStuff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T18:40:41.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyHealth.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:11:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UseChest.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:58:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:01:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gameoverdelay.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Gameoverdelay.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Gameoverdelay.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Gameoverdelay.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Gameoverdelay.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:13:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pistol.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Pistol.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Pistol.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Pistol.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Pistol.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAIwLUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:44:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sway.cs",
+              "DocumentMoniker": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Sway.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Sway.cs",
+              "ToolTip": "C:\\Users\\nishant rana\\end term projec\\Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Sway.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets-20250515T062007Z-1-001\\BasicHorrorGameAssets\\Scripts\\Sway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:36:09.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
